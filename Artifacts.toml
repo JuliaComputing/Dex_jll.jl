@@ -1,18 +1,18 @@
 [[Dex]]
 arch = "x86_64"
-git-tree-sha1 = "b04fbb36b778b28c59bb641f2ca41578f729c1b2"
+git-tree-sha1 = "1066834d5c7622b3e6b4ab40568421ec328712ec"
 libc = "glibc"
 os = "linux"
 
     [[Dex.download]]
-    sha256 = "2a9f8a698e0a6e235766bb666bc99ab382ec9aa0be4a7fac5cf0f9081f616013"
-    url = "https://github.com/JuliaBinaryWrappers/Dex_jll.jl/releases/download/Dex-v2.28.1+1/Dex.v2.28.1.x86_64-linux-gnu.tar.gz"
+    sha256 = "611f96f8a55e20ec0f8dc85a9d4e2e9e13a143740aeb54fb3f7ec1cd58996ed8"
+    url = "https://github.com/JuliaBinaryWrappers/Dex_jll.jl/releases/download/Dex-v2.30.2+0/Dex.v2.30.2.x86_64-linux-gnu.tar.gz"
 [[Dex]]
 arch = "x86_64"
-git-tree-sha1 = "f58efc4923926d6039df2bacc649dfe8e268ead3"
+git-tree-sha1 = "9e64d32f1fee6bd058470ddaef5c20453ca0b666"
 libc = "musl"
 os = "linux"
 
     [[Dex.download]]
-    sha256 = "8d229b3207a41b334dff9959bfbc6282bb479c000f306730a9d831a7dd94c93e"
-    url = "https://github.com/JuliaBinaryWrappers/Dex_jll.jl/releases/download/Dex-v2.28.1+1/Dex.v2.28.1.x86_64-linux-musl.tar.gz"
+    sha256 = "1dd71351d3e3f6fc72796cfdbc34561f7a747b4ea52589f0bccfe67aa7da6a86"
+    url = "https://github.com/JuliaBinaryWrappers/Dex_jll.jl/releases/download/Dex-v2.30.2+0/Dex.v2.30.2.x86_64-linux-musl.tar.gz"
