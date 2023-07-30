@@ -1,6 +1,6 @@
 name = "Dex_jll"
 uuid = "f1ef5e10-671a-599f-ac25-3c68827556ba"
-version = "2.30.2+0"
+version = "2.30.2+1"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
